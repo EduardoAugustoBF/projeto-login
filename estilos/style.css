@@ -40,8 +40,9 @@ section#login {
 
 section#login > div#imagem {
   display: block;
-  background: #5f2c82 url(../imagens/tigre-branco.png) no-repeat; 
+  background: #5f2c82 url(../imagens/pexels-luis-ruiz-1774931.jpg) no-repeat; 
   background-size: cover;
+  background-position: right;
   height: 200px;
 }
 
